@@ -1,19 +1,18 @@
 # AyED-2
-Se vieron algoritmos de ordenación, TAD y algoritmos voraces.
+They covered sorting algorithms, TDA (Abstract Data Type), and greedy algorithms.
 
-## Introducción
-LAB0, un repaso de C.
+## Introduction
+LAB0, a review of C.
 
-
-## Algoritmos de ordenación
-LAB01 y LAB02.
-Se vio los siguientes algoritmos:
-1. Ordenación por selección
-2. Ordenación por inserción
+## Sorting Algorithms
+LAB01 and LAB02.
+The following algorithms were studied:
+1. Selection sort
+2. Insertion sort
 3. Merge Sort
 4. Quick Sort
-5. Recurrencias Divide y Venceras
+5. Divide and Conquer Recurrences
 
-## Tipos y Estructura de Datos
-Del LAB03 al LAB07.
-Se vieron los Tipos Concretos y Abstractos
+## Types and Data Structures
+From LAB03 to LAB07.
+Concrete and Abstract Types were covered.
